@@ -1,5 +1,7 @@
 # **YARN & MapReduce 2 - Karim ABED/Mohamed ZENATI**
 
+## Lien du Github: https://github.com/Krimsooo/lab2_map-reduce-Karim-Mohamed
+
 # MapReduce JAVA
 
 >## 1.6 Send the JAR to the edge node
